@@ -29,8 +29,8 @@ class Song:
         return result
 
 
-s1 = Song('ironic', 'alanis morriset', 'pop')
-s1 = Song('ironic', 'alanis morriset', 'pop')
+s1 = Song('ironic', 'alanis morrisette', 'pop')
+s1 = Song('ironic', 'alanis morrisette', 'pop')
 s2 = Song('sk8r boi', 'avril lavigne', 'pop')
 
 

@@ -47,8 +47,8 @@ class Song:
             cls.artist_count[artist] += 1  # increment the existing value
 
 
-s1 = Song('ironic', 'alanis morriset', 'pop')
-s1 = Song('ironic', 'alanis morriset', 'pop')
+s1 = Song('ironic', 'alanis morrisette', 'pop')
+s1 = Song('ironic', 'alanis morrisette', 'pop')
 s2 = Song('sk8r boi', 'avril lavigne', 'pop')
 
 
